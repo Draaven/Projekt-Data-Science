@@ -19,4 +19,7 @@
 │   └── passagierfrequenz.csv
 ├── src
 │   ├── data_exploration.ipynb
+├── figures
+│   ├── exploration
+│   │   ├── ...
 ```
