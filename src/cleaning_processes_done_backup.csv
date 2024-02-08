@@ -1,0 +1,139 @@
+Process,Time,Output
+Fahrzeiten_Renaming_And_Deletion,0.7,True
+Haltestellen_Renaming_And_Deletion,0.07,True
+Haltepunkte_Renaming_And_Deletion,0.21,True
+Passagierfrequenz_Renaming_And_Deletion,0.06,True
+Fahrzeiten_Deleting_Duplicate_Rows,2804.37,Duplicate Rows: 12130
+Haltestellen_Deleting_Duplicate_Rows,0.7,Duplicate Rows: 0
+Haltepunkte_Deleting_Duplicate_Rows,1.67,Duplicate Rows: 0
+Passagierfrequenz_Deleting_Duplicate_Rows,0.2,Duplicate Rows: 0
+Fahrzeiten_Unifying_Empty,1533.34,Empty Cells: 0
+Haltestellen_Unifying_Empty,0.55,Empty Cells: 0
+Haltepunkte_Unifying_Empty,1.35,Empty Cells: 40941
+Passagierfrequenz_Unifying_Empty,0.16,Empty Cells: 7741
+Haltestellen_Unifying_Values,0.07,True
+Haltepunkte_Unifying_Values,1.37,True
+Passagierfrequenz_Unifying_Values,0.45,True
+Fahrzeiten_Changing_Date_Format,9212.44,False Dates: 0
+Fahrzeiten_Checking_Dates,1566.51,Different Dates in Rows: 13259474; False Dates: 0
+Passagierfrequenz_Splitting_Geopos,0.03,True
+Passagierfrequenz_Checking_Remarks,0.34,Inconsistent Rows: 0
+Fahrzeiten_2016_Renaming_And_Deletion,0.09,True
+Fahrzeiten_2017_Renaming_And_Deletion,0.1,True
+Fahrzeiten_2018_Renaming_And_Deletion,0.1,True
+Fahrzeiten_2019_Renaming_And_Deletion,0.1,True
+Fahrzeiten_2020_Renaming_And_Deletion,0.11,True
+Fahrzeiten_2021_Renaming_And_Deletion,0.1,True
+Fahrzeiten_2022_Renaming_And_Deletion,0.1,True
+Haltestellen_2016_Renaming_And_Deletion,0.01,True
+Haltestellen_2017_Renaming_And_Deletion,0.01,True
+Haltestellen_2018_Renaming_And_Deletion,0.01,True
+Haltestellen_2019_Renaming_And_Deletion,0.01,True
+Haltestellen_2020_Renaming_And_Deletion,0.01,True
+Haltestellen_2021_Renaming_And_Deletion,0.01,True
+Haltestellen_2022_Renaming_And_Deletion,0.01,True
+Haltepunkte_2016_Renaming_And_Deletion,0.03,True
+Haltepunkte_2017_Renaming_And_Deletion,0.03,True
+Haltepunkte_2018_Renaming_And_Deletion,0.03,True
+Haltepunkte_2019_Renaming_And_Deletion,0.03,True
+Haltepunkte_2020_Renaming_And_Deletion,0.03,True
+Haltepunkte_2021_Renaming_And_Deletion,0.03,True
+Haltepunkte_2022_Renaming_And_Deletion,0.03,True
+Fahrzeiten_2016_Deleting_Duplicate_Rows,401.98,Duplicate Rows: 0
+Fahrzeiten_2017_Deleting_Duplicate_Rows,394.13,Duplicate Rows: 4
+Fahrzeiten_2018_Deleting_Duplicate_Rows,407.91,Duplicate Rows: 1
+Fahrzeiten_2019_Deleting_Duplicate_Rows,408.14,Duplicate Rows: 1594
+Fahrzeiten_2020_Deleting_Duplicate_Rows,395.13,Duplicate Rows: 1911
+Fahrzeiten_2021_Deleting_Duplicate_Rows,399.89,Duplicate Rows: 8374
+Fahrzeiten_2022_Deleting_Duplicate_Rows,397.19,Duplicate Rows: 246
+Haltestellen_2016_Deleting_Duplicate_Rows,0.09,Duplicate Rows: 0
+Haltestellen_2017_Deleting_Duplicate_Rows,0.08,Duplicate Rows: 0
+Haltestellen_2018_Deleting_Duplicate_Rows,0.09,Duplicate Rows: 0
+Haltestellen_2019_Deleting_Duplicate_Rows,0.13,Duplicate Rows: 0
+Haltestellen_2020_Deleting_Duplicate_Rows,0.13,Duplicate Rows: 0
+Haltestellen_2021_Deleting_Duplicate_Rows,0.09,Duplicate Rows: 0
+Haltestellen_2022_Deleting_Duplicate_Rows,0.09,Duplicate Rows: 0
+Haltepunkte_2016_Deleting_Duplicate_Rows,0.12,Duplicate Rows: 0
+Haltepunkte_2017_Deleting_Duplicate_Rows,0.37,Duplicate Rows: 0
+Haltepunkte_2018_Deleting_Duplicate_Rows,0.23,Duplicate Rows: 0
+Haltepunkte_2019_Deleting_Duplicate_Rows,0.23,Duplicate Rows: 0
+Haltepunkte_2020_Deleting_Duplicate_Rows,0.25,Duplicate Rows: 0
+Haltepunkte_2021_Deleting_Duplicate_Rows,0.23,Duplicate Rows: 0
+Haltepunkte_2022_Deleting_Duplicate_Rows,0.24,Duplicate Rows: 0
+Fahrzeiten_2016_Unifying_Empty,215.58,Empty Cells: 0
+Fahrzeiten_2017_Unifying_Empty,214.19,Empty Cells: 0
+Fahrzeiten_2018_Unifying_Empty,223.56,Empty Cells: 0
+Fahrzeiten_2019_Unifying_Empty,222.6,Empty Cells: 0
+Fahrzeiten_2020_Unifying_Empty,217.52,Empty Cells: 0
+Fahrzeiten_2021_Unifying_Empty,221.63,Empty Cells: 0
+Fahrzeiten_2022_Unifying_Empty,218.26,Empty Cells: 0
+Haltestellen_2016_Unifying_Empty,0.07,Empty Cells: 0
+Haltestellen_2017_Unifying_Empty,0.08,Empty Cells: 0
+Haltestellen_2018_Unifying_Empty,0.08,Empty Cells: 0
+Haltestellen_2019_Unifying_Empty,0.08,Empty Cells: 0
+Haltestellen_2020_Unifying_Empty,0.08,Empty Cells: 0
+Haltestellen_2021_Unifying_Empty,0.08,Empty Cells: 0
+Haltestellen_2022_Unifying_Empty,0.08,Empty Cells: 0
+Haltepunkte_2016_Unifying_Empty,0.11,Empty Cells: 4015
+Haltepunkte_2017_Unifying_Empty,0.11,Empty Cells: 4150
+Haltepunkte_2018_Unifying_Empty,0.17,Empty Cells: 6452
+Haltepunkte_2019_Unifying_Empty,0.19,Empty Cells: 6515
+Haltepunkte_2020_Unifying_Empty,0.41,Empty Cells: 6539
+Haltepunkte_2021_Unifying_Empty,0.19,Empty Cells: 6626
+Haltepunkte_2022_Unifying_Empty,0.17,Empty Cells: 6644
+Haltestellen_2016_Unifying_Values,0.01,True
+Haltestellen_2017_Unifying_Values,0.01,True
+Haltestellen_2018_Unifying_Values,0.01,True
+Haltestellen_2019_Unifying_Values,0.01,True
+Haltestellen_2020_Unifying_Values,0.01,True
+Haltestellen_2021_Unifying_Values,0.01,True
+Haltestellen_2022_Unifying_Values,0.01,True
+Haltepunkte_2016_Unifying_Values,0.12,True
+Haltepunkte_2017_Unifying_Values,0.13,True
+Haltepunkte_2018_Unifying_Values,0.21,True
+Haltepunkte_2019_Unifying_Values,0.21,True
+Haltepunkte_2020_Unifying_Values,0.22,True
+Haltepunkte_2021_Unifying_Values,0.24,True
+Haltepunkte_2022_Unifying_Values,0.24,True
+Fahrzeiten_2016_Changing_Date_Format,1292.55,False Dates: 0
+Fahrzeiten_2017_Changing_Date_Format,1303.87,False Dates: 0
+Fahrzeiten_2018_Changing_Date_Format,1344.29,False Dates: 0
+Fahrzeiten_2019_Changing_Date_Format,1321.1,False Dates: 0
+Fahrzeiten_2020_Changing_Date_Format,1318.02,False Dates: 0
+Fahrzeiten_2021_Changing_Date_Format,1325.24,False Dates: 0
+Fahrzeiten_2022_Changing_Date_Format,1307.37,False Dates: 0
+Fahrzeiten_2016_Checking_Dates,219.34,Different Dates in Rows: 1878600; False Dates: 0
+Fahrzeiten_2017_Checking_Dates,221.13,Different Dates in Rows: 1840187; False Dates: 0
+Fahrzeiten_2018_Checking_Dates,229.81,Different Dates in Rows: 1958969; False Dates: 0
+Fahrzeiten_2019_Checking_Dates,229.82,Different Dates in Rows: 1951904; False Dates: 0
+Fahrzeiten_2020_Checking_Dates,221.17,Different Dates in Rows: 1872458; False Dates: 0
+Fahrzeiten_2021_Checking_Dates,225.83,Different Dates in Rows: 1881634; False Dates: 0
+Fahrzeiten_2022_Checking_Dates,219.41,Different Dates in Rows: 1875722; False Dates: 0
+END OF CSV CREATION,,
+START OF CSV CLEANING,,
+Haltestellen_Checking_Consistent_Ids,0.86,Inconsistent Ids: 75; Columns: halt_kurz: 53; halt_lang: 22
+Haltepunkte_Checking_Consistent_Ids,2.08,Inconsistent Ids: 0
+Haltestellen_Checking_Ids_In_Last_Year,0.33,True
+Haltepunkte_Checking_Ids_In_Last_Year,0.44,True
+Haltestellen_Csv_Merging,0.0,True
+Haltepunkte_Csv_Merging,0.35,True
+Haltepunkte_Checking_Reactivated,2.06,Reactivated: 0
+Haltepunkte_Checking_Same_Location,0.33,Same Location: 80425; Also Same Bearing: 73249
+Fahrzeiten_Checking_Foreign_Keys,3903.84,Foreign Keys not Existing: 4865
+Haltepunkte_Checking_Foreign_Keys,0.3,Foreign Keys not Existing: 0
+Fahrzeiten_Putting_In_Correct_Years,2127.88,Rows in Wrong Year: 2230962
+Haltepunkte_Adding_Bearing,1.04,Added Bearing: 19429
+Haltestellen_Adding_Coordinates,31.77,Empty Cells: 134
+Haltepunkte_Adding_Coordinates,12.24,Empty Cells: 0
+Passagierfrequenz_Filling_Values,0.17,Empty Cells: 1932
+VISUALIZATIONS,,
+Visualizing_Fahrzeiten_Too_Little_Rows,1068.83,/data/figures/cleaning
+Visualizing_Fahrzeiten_Putting_In_Correct_Years,100.0,/data/figures/cleaning
+Visualizing_Haltestellen_Empty_Cells,0.37,/data/figures/cleaning
+Visualizing_Haltepunkte_Empty_Cells,0.66,/data/figures/cleaning
+Visualizing_Passagierfrequenz_Empty_Cells,1.1,/data/figures/cleaning
+TESTS,,
+Fahrzeiten_Checking_Foreign_Keys_Test,443.56,Foreign Keys not Existing: 449
+Fahrzeiten_Putting_In_Correct_Years_Test_1,208.08,Rows in Wrong Year: 114735
+Fahrzeiten_Putting_In_Correct_Years_Test_2,112.63,Rows in Wrong Year: 0
+Fahrzeiten_Finding_Too_Little_Rows_Test,162.52,/data/figures/cleaning

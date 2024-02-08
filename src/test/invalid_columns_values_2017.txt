@@ -1,0 +1,685 @@
+Year: 2017
+-----------------------------------
+Invalid Columns Von:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+Year: 2017
+-----------------------------------
+Invalid Columns Von:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2728
+f_halt_punkt_diva, 81, 11, 2440
+f_halt_kurz, KSIH, AKRE, 743104
+f_halt_id, 1310, 2383, 2728
+-----------------------------------
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
+Invalid Columns Nach:
+Column, Value in Fahrzeiten, Value in Haltestellen, Count
+f_halt_diva, 821, 1640, 2886
+f_halt_punkt_diva, 81, 11, 2598
+f_halt_kurz, KSIH, AKRE, 743046
+f_halt_id, 1310, 2383, 2886
+===================================
