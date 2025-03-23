@@ -1,0 +1,64 @@
+Year: 2022
+-------------------------------------
+Amount of missing timestamps: 11641
+Percentage of missing timestamps: 11.0%
+-------------------------------------
+Hourly distribution:
+hour
+0      343
+1     1931
+2     2613
+3     2492
+4     1482
+5      391
+6      177
+7      161
+8      131
+9      115
+10      84
+11      84
+12      84
+13      84
+14      84
+15      84
+16      84
+17      84
+18      84
+19      89
+20     204
+21     401
+22     187
+23     168
+Name: count, dtype: int64
+-------------------------------------
+Daily distribution:
+day_of_week
+0    1991
+1    1892
+2    2039
+3    1904
+4    1578
+5    1136
+6    1101
+Name: count, dtype: int64
+-------------------------------------
+Monthly distribution:
+month
+1      918
+2      762
+3      850
+4      807
+5      788
+6      665
+7     2060
+8      732
+9      793
+10    1210
+11     919
+12    1137
+Name: count, dtype: int64
+=====================================
+Amount of rows with no passengers before filling: 0
+=====================================
+Amount of rows with no passengers after filling: 97332
+=====================================
